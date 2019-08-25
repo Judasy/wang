@@ -1,12 +1,1 @@
-a
-b
-c
-o
-p
-g
-oo
-d
-e
-f
-g
-h
+你好，git
